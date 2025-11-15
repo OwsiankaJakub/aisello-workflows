@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    <!-- Strona główna -->
+    <url>
+        <loc>https://aisello.pl/</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Kontakt -->
+    <url>
+        <loc>https://aisello.pl/kontakt</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Jak to działa -->
+    <url>
+        <loc>https://aisello.pl/jak-to-dziala</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Rozwiązania -->
+    <url>
+        <loc>https://aisello.pl/rozwiazania</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Branże -->
+    <url>
+        <loc>https://aisello.pl/branze</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- O nas -->
+    <url>
+        <loc>https://aisello.pl/o-nas</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Usługi -->
+    <url>
+        <loc>https://aisello.pl/uslugi</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Automatyzacja - Marketing -->
+    <url>
+        <loc>https://aisello.pl/automatyzacja/marketing</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Automatyzacja - E-commerce -->
+    <url>
+        <loc>https://aisello.pl/automatyzacja/e-commerce</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Automatyzacja - Handel -->
+    <url>
+        <loc>https://aisello.pl/automatyzacja/handel</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Automatyzacja - Usługi -->
+    <url>
+        <loc>https://aisello.pl/automatyzacja/uslugi</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Automatyzacja - Logistyka -->
+    <url>
+        <loc>https://aisello.pl/automatyzacja/logistyka</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Automatyzacja - Produkcja -->
+    <url>
+        <loc>https://aisello.pl/automatyzacja/produkcja</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Automatyzacja - Sprzedaż -->
+    <url>
+        <loc>https://aisello.pl/automatyzacja/sprzedaz</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Automatyzacja - Księgowość -->
+    <url>
+        <loc>https://aisello.pl/automatyzacja/ksiegowosc</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Automatyzacja - HR -->
+    <url>
+        <loc>https://aisello.pl/automatyzacja/hr</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Automatyzacja - IT -->
+    <url>
+        <loc>https://aisello.pl/automatyzacja/it</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Polityka prywatności -->
+    <url>
+        <loc>https://aisello.pl/polityka-prywatnosci</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <!-- Licencja -->
+    <url>
+        <loc>https://aisello.pl/licencja</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+</urlset>
