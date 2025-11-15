@@ -100,8 +100,8 @@
                             <h1 class="text-5xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl dark:text-white">Wszystko działa automatycznie.</h1>
                             <p class="mt-8 text-lg font-medium text-pretty text-gray-500 sm:max-w-md sm:text-xl/8 lg:max-w-none dark:text-gray-400">Automatyzujemy procesy w Twojej firmie. Oszczędzasz czas i pieniądze. Twoje systemy wreszcie ze sobą współpracują. Przygotujemy rozwiązanie specjalnie dla Ciebie.</p>
                             <div class="mt-10 flex items-center gap-x-6">
-                                <a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 dark:bg-indigo-500 dark:hover:bg-indigo-400 dark:focus-visible:outline-indigo-500">Rozpocznij</a>
-                                <a href="#" class="text-sm/6 font-semibold text-gray-900 dark:text-white">Zobacz jak to działa <span aria-hidden="true">→</span></a>
+                                <a href="{{ route('contact') }}" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 dark:bg-indigo-500 dark:hover:bg-indigo-400 dark:focus-visible:outline-indigo-500">Rozpocznij</a>
+                                <a href="{{ route('howItWorks') }}" class="text-sm/6 font-semibold text-gray-900 dark:text-white">Zobacz jak to działa <span aria-hidden="true">→</span></a>
                             </div>
                         </div>
                         <div class="mt-14 flex justify-end gap-8 sm:-mt-44 sm:justify-start sm:pl-20 lg:mt-0 lg:pl-0">
@@ -378,8 +378,8 @@
                     Porozmawiajmy o Twoich potrzebach.
                 </h2>
                 <div class="mt-10 flex items-center gap-x-6 lg:mt-0 lg:shrink-0">
-                    <a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 dark:bg-indigo-500 dark:hover:bg-indigo-400 dark:focus-visible:outline-indigo-500">Skontaktuj się z nami</a>
-                    <a href="#" class="text-sm/6 font-semibold text-gray-900 dark:text-gray-100">
+                    <a href="{{ route('contact') }}" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 dark:bg-indigo-500 dark:hover:bg-indigo-400 dark:focus-visible:outline-indigo-500">Skontaktuj się z nami</a>
+                    <a href="{{ route('howItWorks') }}" class="text-sm/6 font-semibold text-gray-900 dark:text-gray-100">
                         Zobacz jak to działa
                         <span aria-hidden="true">→</span>
                     </a>
@@ -540,7 +540,7 @@
                 <div class="relative mx-auto flex max-w-3xl flex-col items-center px-6 py-32 text-center sm:py-64 lg:px-0">
                     <h2 class="text-4xl font-bold tracking-tight text-white lg:text-6xl">Gotowy na automatyzację?</h2>
                     <p class="mt-4 text-xl text-white">Porozmawiajmy o Twoich potrzebach. Przygotujemy rozwiązanie specjalnie dla Ciebie. Oszczędzisz czas i pieniądze.</p>
-                    <a href="#" class="mt-8 inline-block rounded-md border border-transparent bg-white px-8 py-3 text-base font-medium text-gray-900 hover:bg-gray-100">Skontaktuj się z nami</a>
+                    <a href="{{ route('contact') }}" class="mt-8 inline-block rounded-md border border-transparent bg-white px-8 py-3 text-base font-medium text-gray-900 hover:bg-gray-100">Skontaktuj się z nami</a>
                 </div>
             </div>
         </div>
